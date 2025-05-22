@@ -1,9 +1,7 @@
 ## 👋 Olá! Eu sou o Djone Minotto
 
-🎯 Em transição de carreira para Desenvolvimento Web  
 💻 Estudante de front-end com foco em HTML, CSS, JavaScript e React  
 📍 Atualmente morando em Portugal  
-🚀 Buscando minha primeira oportunidade como Dev Júnior!
 
 ---
 
