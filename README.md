@@ -44,8 +44,8 @@ Prática de estruturação de layout responsivo com HTML e CSS, usando BEM.
 
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djone-minotto-528918116/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dfminotto@gmail.com)
 
 ---
 
