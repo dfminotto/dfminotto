@@ -30,7 +30,7 @@
 **Adicional Material Pack PT-BR**  
 Prática de estruturação de layout responsivo com HTML e CSS, usando BEM.
 
-🔗 [Acesse o projeto aqui](https://dfminotto.github.io/adicional_material_pack_ptbr/)
+🔗 [Acesse o projeto aqui](https://dfminotto.github.io/contare/#header)
 
 ---
 
