@@ -27,7 +27,7 @@
 
 ### 🧱 Projeto em Destaque
 
-**Adicional Material Pack PT-BR**  
+**Contare**  
 Prática de estruturação de layout responsivo com HTML e CSS, usando BEM.
 
 🔗 [Acesse o projeto aqui](https://dfminotto.github.io/contare/#header)
